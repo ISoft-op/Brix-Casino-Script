@@ -1,5 +1,7 @@
 ### BrixCasino Frontend Features
 
+https://casinoshop.io/product/brix-casino-online-casino-scripts-source-code/
+
 ![Frame 933](https://github.com/user-attachments/assets/c065f3d9-208a-42cf-a181-be06c40c8932)
 ![Frame 935](https://github.com/user-attachments/assets/a3c127d7-bfcb-4b9e-8c59-23ecdb9d7524)
 
